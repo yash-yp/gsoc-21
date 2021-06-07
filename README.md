@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://summerofcode.withgoogle.com/projects/#5914002158256128">Automate Metrics Release and Process Improvement</a></h2>
+<h1 align="center"><a href="https://summerofcode.withgoogle.com/projects/#5914002158256128">Automate Metrics Release and Process Improvement</a></h1>
 <figure>
   <img src="project/images/chaoss-gsoc.png" align="center">
 </figure>
@@ -10,7 +10,7 @@
 
 ## Project Abstract
 
-CHAOSS metrics have been defined to provide an in-depth view into the various features of an open-source project.
+[CHAOSS](https://github.com/chaoss) metrics have been defined to provide an in-depth view into the various features of an open-source project.
 
  The metrics are very useful as with the growing popularity of open-source projects, it is becoming increasingly difficult to keep track of the needs of the project, its implementation and its requirements for the future. 
 
