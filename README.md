@@ -5,7 +5,9 @@
 <p align="center">
   <a href="project/Automate-Metrics-Release-and-Process-Improvement.pdf"> Proposal </a>|
   <a href="meetings/"> Meeting Notes </a>| 
-  <a href="#project-abstract"> Abstract</a>
+  <a href="#project-abstract"> Abstract</a> |
+  <a href="blogs/">Blogs</a> |
+  <a href="#additional-info"> Links</a>
 </p>
 
 ## Project Abstract
@@ -35,7 +37,10 @@ The automation systems will mostly be following the same set of processes but on
 
 **[Automation : Tree Structure of LaTeX files](https://github.com/yash2002109/GSoC-21-Microtasks/tree/main/Automate-LaTeX-Tree)**
 
-## Blogs
+## Project Updates
+
+- Community Bonding Phase (May 17, 2021 - June 6, 2021) - [Report](blogs/community-bonding.md)
+
 
 ## Additional Info
 
@@ -44,10 +49,3 @@ This repository will be regularly updated with blogs and meetings summaries duri
 - [GSoC'21 Project Proposal](project/Automate-Metrics-Release-and-Process-Improvement.pdf)
 - [Microtasks and POC]()
 - [Project Link](https://summerofcode.withgoogle.com/projects/#5914002158256128)
-
-
-
-
-
-
-    
