@@ -14,7 +14,15 @@
 
  The metrics are very useful as with the growing popularity of open-source projects, it is becoming increasingly difficult to keep track of the needs of the project, its implementation and its requirements for the future. 
 
+Currently, the metrics are present in the repositories of the working groups. Each metric is recorded as a markdown file in the repositories. The metrics try to answer a unique question related to an open-source project. The metrics also follow a template to maintain uniformity.
+
 These metrics are released biannually in the form of reports. The main aim of the project is to understand the metrics release process, propose process improvements and automate the release process of these metrics.
+
+There shall be two automation systems in place:
+- Automation system for English version of the metric report.
+- Automation system for translated versions of the metric reports.
+
+The automation systems will mostly be following the same set of processes but on different structures and workflow of the repositories. 
 
 ### Mentors
 
