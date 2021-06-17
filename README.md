@@ -40,7 +40,8 @@ The automation systems will mostly be following the same set of processes but on
 ## Project Updates
 
 - Community Bonding Phase (May 17, 2021 - June 6, 2021) - [Report](blogs/community-bonding.md)
-
+- Coding Period
+  - Week 1 (June 7, 2021 - June 13, 2021) - [Blog](blogs/week-01-coding-period.md)
 
 ## Additional Info
 
