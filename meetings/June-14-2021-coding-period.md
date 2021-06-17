@@ -1,4 +1,4 @@
-# Meeting June 7, 2021
+# Meeting- June 14, 2021
 
 Attendees (please add yourself to this list and tell us one good thing going on in your life recently)
 
