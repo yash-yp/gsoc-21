@@ -44,6 +44,7 @@ The automation systems will mostly be following the same set of processes but on
   - Week 1 (June 7, 2021 - June 13, 2021) - [Blog](blogs/week-01-coding-period.md)
   - Week 2 (June 14, 2021 - June 20, 2021) - [Blog](blogs/week-02-coding-period.md)
   - Week 3 (June 21, 2021 - June 27, 2021) - [Blog](blogs/week-03-coding-period.md)
+  -  Week 4 (June 28, 2021 - July 4, 2021) - [Blog](blogs/week-04-coding-period.md)
     
 ## Additional Info
 
