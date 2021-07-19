@@ -46,11 +46,12 @@ The automation systems will mostly be following the same set of processes but on
   - Week 3 (June 21, 2021 - June 27, 2021) - [Blog](blogs/week-03-coding-period.md)
   -  Week 4 (June 28, 2021 - July 4, 2021) - [Blog](blogs/week-04-coding-period.md)
   -  Week 5 (July 5, 2021 - July 11, 2021) - [Blog](blogs/week-05-coding-period.md)
+  -  Week 6 (July 12, 2021 - July 18, 2021) - [Blog](blogs/week-06-coding-period.md)
     
 ## Additional Info
 
 This repository will be regularly updated with blogs and meetings summaries during the project.
     
 - [GSoC'21 Project Proposal](project/Automate-Metrics-Release-and-Process-Improvement.pdf)
-- [Microtasks and POC]()
+- [Microtasks and POC](https://github.com/yash2002109/GSoC-21-Microtasks)
 - [Project Link](https://summerofcode.withgoogle.com/projects/#5914002158256128)
