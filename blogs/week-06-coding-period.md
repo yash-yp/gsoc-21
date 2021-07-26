@@ -14,4 +14,6 @@ I also opened an issue- [chaoss/translations/#29](https://github.com/chaoss/tran
 
 Additionally, I created a draft PR- [chaoss/translations/#30](https://github.com/chaoss/translations/pull/30) that standardizes some of the translated metrics. This PR mainly acts as a guide to the standardization process of more translated metrics.
 
-Next, we were able to work on the documentation of the automation system. The documentation is almost done. We thought it would be good to add some checks and error handling before sending people on MARS for user testing.
+Next, we were able to work on the documentation of the automation system. The documentation is almost done baring a few minor changes.
+
+The user testing phase is going to be delayed a little. We think it would be good to add some more checks and error handling to the scripts before sending people on MARS. We hope to get the user testing started by the middle of next week.
