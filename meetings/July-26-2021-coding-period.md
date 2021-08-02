@@ -41,10 +41,10 @@ Attendees (please add yourself to this list and tell us one good thing going on 
 - Create checklist of process that should be done by the WG to alert translations community and the 
     - https://github.com/chaoss/metrics/issues/193
  
-## TODO:
+## TODOs:
 
-    - Continue on MARS documentation
-    - Make structure for translations directory in MARS
-    - Write scripts for yml, main.py, Docker for translations
-    - Update chinese translations
-    - Update spanish translations
+- Continue on MARS documentation
+- Make structure for translations directory in MARS
+- Write scripts for yml, main.py, Docker for translations
+- Update chinese translations
+- Update spanish translations
