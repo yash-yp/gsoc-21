@@ -26,4 +26,4 @@ They also suggested some changes that could improve MARS's performance. Among th
 >
 > Improve documentation in code and giving files some more descriptive names
 
-This meant that what would have been a free week 10 turned into one of the busiest ones.
+This meant that what would have been a free week, turned into one of the busiest ones.
