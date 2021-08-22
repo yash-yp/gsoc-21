@@ -48,8 +48,10 @@ The automation systems will mostly be following the same set of processes but on
   -  Week 5 (July 5, 2021 - July 11, 2021) - [Blog](blogs/week-05-coding-period.md)
   -  Week 6 (July 12, 2021 - July 18, 2021) - [Blog](blogs/week-06-coding-period.md)
   -  Week 7 (July 19, 2021 - July 25, 2021) - [Blog](blogs/week-07-coding-period.md)
-  -  Week 8 (July 26, 2021 - August 2, 2021) - [Blog](blogs/week-08-coding-period.md)    
-  
+  -  Week 8 (July 26, 2021 - August 1, 2021) - [Blog](blogs/week-08-coding-period.md)    
+  -  Week 9 (August 2, 2021 - August 8, 2021) - [Blog](blogs/week-09-coding-period.md)    
+  -  Week 10 (August 9, 2021 - August 15, 2021) - [Blog](blogs/week-10-coding-period.md)    
+- [Final Report](https://gist.github.com/yash2002109/887c3e68ff3ff222f941402ceb7bf0dc)
 ## Additional Info
 
 This repository will be regularly updated with blogs and meetings summaries during the project.
